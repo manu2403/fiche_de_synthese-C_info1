@@ -2,10 +2,12 @@
 
 ## Variables
 Déclaration:
+```
+int nb;//entier
+float nb;//réel
+char nb;//caractère
 
-```int nb```//entier
-```float nb```//réel
-```char nb```//caractère
+```
 
 
 ## Entrées/sorties
