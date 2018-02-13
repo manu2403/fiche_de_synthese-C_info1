@@ -1,8 +1,8 @@
-c# fiche de synthese C
+# fiche de synthese C
 
 ## Variables
 Déclaration:
-```
+```c
 int nb;//entier
 float nb;//réel
 char nb;//caractère
