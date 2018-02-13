@@ -36,7 +36,7 @@ int a;
 
 printf("Combien de bonbon a vv?");
 scanf("%d",&a);
-printf("vv a %d ")
+printf("vv a %d bonbons");
 ```
 
 
