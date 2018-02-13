@@ -4,6 +4,8 @@
 Déclaration:
 
 ```int nb```//entier
+```float nb```//réel
+```char nb```//caractère
 
 
 ## Entrées/sorties
