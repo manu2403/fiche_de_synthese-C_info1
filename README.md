@@ -13,9 +13,9 @@ char nb; //caractère
 type | indicateur 
 --- | ---
 int | `%d` //entier
-float | `%f`
-char | `%c`
-char* | `%s`
+float | `%f` //réel
+char | `%c` //caractère
+char* | `%s` //chaîne de caractère
 
 ### Affichage à l'écran:
 ```c
