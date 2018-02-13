@@ -38,6 +38,21 @@ printf("vv a %d bonbons"); //on affiche à l'écran cette phrase avec la valeur 
 
 ## Structure de contrôles
 ### Boucle
+#### While
+##### Do....while
+```c
+int main(void)
+{
+int entier
+
+do
+{
+printf("Entrer un entier positif au clavier");
+scanf("%d",&entier);
+}while(entier < 0)
+return 0; 
+}
+
 
 ## Variables composés
 
