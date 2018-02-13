@@ -10,7 +10,9 @@ char nb; //caractère
 ```
 ## Entrées/sorties
 
-type | indicateur | 
+type | indicateur 
+--- | ---
+int | `%d`
 int | `%d`
 
 ### Affichage à l'écran:
