@@ -37,7 +37,7 @@ printf("vv a %d bonbons"); //on affiche à l'écran cette phrase avec la valeur 
 ```
 
 ## Structure de contrôles
-
+### Boucle
 
 ## Variables composés
 
