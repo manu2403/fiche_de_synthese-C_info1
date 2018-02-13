@@ -1,4 +1,4 @@
-# fiche de synthese C
+;# fiche de synthese C
 
 ## Variables
 Déclaration:
@@ -14,7 +14,7 @@ char nb; //caractère
 `printf("")`; //il sert à indiquer quelle variable entrer ou il peut afficher des variables
 ```
 Ex1: printf("Entrée un nombre entre 0 et 10") //ici, on indique à l'utilisateur quoi faire
-Ex2: printf("Nass à %d chocolats"
+Ex2: printf("Nass à %d chocolats",&nb); //ici, on indique une information à l'utilisateur
 
 ### Lecture au clavier
 
