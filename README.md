@@ -1,10 +1,9 @@
 # fiche de synthese C
 
 ## Variables
+Déclaration:
 
-```c
-int nb
-```
+```int nb```//entier
 
 
 ## Entrées/sorties
