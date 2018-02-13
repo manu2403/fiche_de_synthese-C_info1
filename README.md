@@ -10,12 +10,12 @@ char nb; //caractère
 ```
 ## Entrées/sorties
 
-type | indicateur 
---- | ---
-int | `%d` //entier
-float | `%f` //réel
-char | `%c` //caractère
-char* | `%s` //chaîne de caractère
+type | description | indicateur 
+--- | --- | ---
+int | `%d` |entier
+float | `%f` |réel
+char | `%c` |caractère
+char* | `%s` |chaîne de caractère
 
 ### Affichage à l'écran:
 ```c
