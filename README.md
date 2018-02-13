@@ -14,6 +14,7 @@ char nb; //caractère
 printf(""); //il peut indiquer à l'utilisateur quoi faire ou lui donner une information
 ```
 Ex1: printf("Entrée un nombre entre 0 et 10"); //ici, on indique à l'utilisateur quoi faire
+
 Ex2: printf("Nass à %d chocolats",&nb); //ici, on indique une information à l'utilisateur
 
 ### Lecture au clavier
