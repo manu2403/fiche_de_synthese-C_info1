@@ -13,7 +13,8 @@ char nb; //caractère
 type | indicateur 
 --- | ---
 int | `%d`
-int | `%d`
+float | `%f`
+char | `%c`
 
 ### Affichage à l'écran:
 ```c
