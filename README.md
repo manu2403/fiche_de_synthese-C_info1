@@ -1,4 +1,4 @@
-# fiche_de_synthese-C
+# fiche de synthese C
 
 ## Variables
 
