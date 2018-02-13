@@ -10,7 +10,7 @@ char nb; //caractère
 ```
 ## Entrées/sorties
 
-type | description | indicateur 
+type | indicateur | description 
 --- | --- | ---
 int | `%d` |entier
 float | `%f` |réel
