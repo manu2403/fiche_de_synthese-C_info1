@@ -54,7 +54,21 @@ return 0;
 }
 ```
 //Ici, on est sur une boucle while de type faire...tant que. On va d'abord entrer dans la boucle et ensuite on va lire la condition pour savoir si on doit recommencer ou si on doit sortir de la boucle
-
+##### While
+```c
+int main(void)
+{
+int entier
+printf("Entrer un entier positif au clavier");
+scanf("%d",&entier);
+while(entier < 0)
+{
+printf("Entrer un entier positif au clavier");
+scanf("%d",&entier);
+}
+return 0;
+}
+//Ici, on doit d'abord entrer 1 fois un caractère pour pouvoir entrer dans la boucle, ensuite on va lire la condition pour entrer dans la boucle ou passer notre chemin. Dans cet exemple, la fonction do...while est plus adapté car on écrit moins de code.
 ## Variables composés
 
 ## Fonction
