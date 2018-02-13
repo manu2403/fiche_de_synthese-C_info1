@@ -52,7 +52,8 @@ scanf("%d",&entier);
 }while(entier < 0)
 return 0; 
 }
-
+```
+//Ici, on est sur une boucle while de type faire...tant que. On va d'abord entrer dans la boucle et ensuite on va lire la condition pour savoir si on doit recommencer ou si on doit sortir de la boucle
 
 ## Variables composés
 
