@@ -77,7 +77,9 @@ Liste d'instruction
 }
 ```
 //expression1 est une instruction réalisée avant d'entrer dans la boucle (ex: indice=0)
+
 //condition correspond à la condition nécessaire pour continuer à rester dans la boucle (ex:indice<0)
+
 //expression2 est une instruction réalisée après chacune des itérations de la boucle (ex:indice++)
 ## Variables composés
 
