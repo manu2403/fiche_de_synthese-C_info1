@@ -69,6 +69,7 @@ scanf("%d",&entier);
 return 0;
 }
 //Ici, on doit d'abord entrer 1 fois un caractère pour pouvoir entrer dans la boucle, ensuite on va lire la condition pour entrer dans la boucle ou passer notre chemin. Dans cet exemple, la fonction do...while est plus adapté car on écrit moins de code.
+```
 ## Variables composés
 
 ## Fonction
