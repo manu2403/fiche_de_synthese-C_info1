@@ -1,4 +1,4 @@
-#fiche de synthese C
+# fiche de synthese C
 
 ## Variables
 Déclaration:
