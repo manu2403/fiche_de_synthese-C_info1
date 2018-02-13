@@ -8,6 +8,11 @@ float nb; //réel
 char nb; //caractère
 
 ```
+
+sdfgsdfg
+sdfgsdfg
+
+sdfg
 ## Entrées/sorties
 
 ## Structure de contrôles
