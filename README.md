@@ -78,9 +78,24 @@ Liste d'instruction
 ```
 //expression1 est une instruction réalisée avant d'entrer dans la boucle (ex: indice=0)
 
-//condition correspond à la condition nécessaire pour continuer à rester dans la boucle (ex:indice<0)
+//condition correspond à la condition nécessaire pour continuer à rester dans la boucle (ex: indice<0)
 
-//expression2 est une instruction réalisée après chacune des itérations de la boucle (ex:indice++)
+//expression2 est une instruction réalisée après chacune des itérations de la boucle (ex: indice++)
+### Instruction
+#### If
+```c
+if(indice<0) //condition
+{
+liste d'instruction
+}
+else
+{
+liste d'intruction
+}
+```
+//else est obtionnel dans une fonction if
+
+//En binaire, le bloc d'instrution de if est réalisé quand condition = 1 et le bloc d'instruction de else est réalisé quand condition=0
 ## Variables composés
 
 ## Fonction
