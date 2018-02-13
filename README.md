@@ -44,7 +44,6 @@ printf("vv a %d bonbons"); //on affiche à l'écran cette phrase avec la valeur 
 int main(void)
 {
 int entier
-
 do
 {
 printf("Entrer un entier positif au clavier");
@@ -70,6 +69,16 @@ return 0;
 }
 ```
 //Ici, on doit d'abord entrer 1 fois un caractère pour pouvoir entrer dans la boucle, ensuite on va lire la condition pour entrer dans la boucle ou passer notre chemin. Dans cet exemple, la fonction do...while est plus adapté car on écrit moins de code.
+#### For
+```c
+for (expression1; condition; expression2)
+{
+Liste d'instruction
+}
+```
+//expression1 est une instruction réalisée avant d'entrer dans la boucle (ex: indice=0)
+//condition correspond à la condition nécessaire pour continuer à rester dans la boucle (ex:indice<0)
+//expression2 est une instruction réalisée après chacune des itérations de la boucle (ex:indice++)
 ## Variables composés
 
 ## Fonction
